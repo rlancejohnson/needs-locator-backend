@@ -1,0 +1,20 @@
+{
+  "name": "needs-locator-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "needs-locator-backend"
+  },
+  "author": "Lance Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2"
+  }
+}
